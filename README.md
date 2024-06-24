@@ -1,5 +1,5 @@
 ## Project Description:
-
+*It's a web application built on the Flask framework, incorporating a model trained using transfer learning with VGG16.*
 *Developed a model to classify diseases affecting Tomato plants based on images of their leaves.*
 *Utilized deep learning techniques to analyze leaf images and identify specific disease types.*
 *Implemented using TensorFlow, the model achieved accurate disease classification for effective plant health monitoring.* 
@@ -15,7 +15,7 @@
 
 ## The VGG model with transfer learing look like :
 
-<img src="./static/images/train (1).jpg">
+<img src="./static/images/train.jpg">
 
 ## Source:
 * The dataset is hosted on Kaggle.
