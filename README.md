@@ -1,20 +1,25 @@
-# Project to detect the type of Disease on a Tomato plant using its leaf 
+## Project Description:
 
-<img src="./img2.jpg">
+*Developed a model to classify diseases affecting Tomato plants based on images of their leaves.*
+*Utilized deep learning techniques to analyze leaf images and identify specific disease types.*
+*Implemented using TensorFlow, the model achieved accurate disease classification for effective plant health monitoring.* 
+
+<img src="./static/images/img2.jpg">
 
 
-## Description : 
-* ### Used Transfer Learning to create a model using Tensorflow.
-* ### The transfer learning model used is VGG19.
-* ### The accuracy of the model in validation data turn out to be 88.37%
-* ### With a validation loss of less than 0.4795
+## Description:
+* Implemented a Tensorflow model using Transfer Learning.
+* Employed the VGG19 model for transfer learning.
+* Achieved an impressive validation accuracy of 86%.
+* Demonstrated a validation loss of less than 0.4315, highlighting strong performance in model validation.
 
 ## The VGG model with transfer learing look like :
 
-<img src="./train (1).jpg">
+<img src="./static/images/train (1).jpg">
 
 ## Source:
-* ### The dataset was hosted on kaggle
-* ###  <https://www.kaggle.com/noulam/tomato>
-* ### The dataset contains 10 Categories, displaying the 9 different type of diseases and one category for healthy tomato.
+* The dataset is hosted on Kaggle.
+* Dataset Link: [Tomato Dataset on Kaggle](https://www.kaggle.com/noulam/tomato)
+* The dataset comprises 10 categories, including 9 types of tomato diseases and one category for healthy tomatoes.
+
 
