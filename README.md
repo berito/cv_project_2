@@ -9,6 +9,7 @@
 
 ## Description:
 * Implemented a Tensorflow model using Transfer Learning.
+* The model was trained on the Google Colab for 9 epochs
 * Employed the VGG19 model for transfer learning.
 * Achieved an impressive validation accuracy of 86%.
 * Demonstrated a validation loss of less than 0.4315, highlighting strong performance in model validation.
