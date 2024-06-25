@@ -14,9 +14,12 @@
 * Achieved an impressive validation accuracy of 86%.
 * Demonstrated a validation loss of less than 0.4315, highlighting strong performance in model validation.
 
-## The VGG model with transfer learing look like :
+## The VGG model with transfer learing diagram from tensorboard :
 
 <img src="./static/images/train.png">
+
+## Try out the web server: 
+  http://http://188.166.153.41/
 
 ## Source:
 * The dataset is hosted on Kaggle.
