@@ -35,14 +35,14 @@ def prediction_cls(prediction):
         if np.argmax(prediction)==clss:
             return key
 
-@app.route('/')
+@app.route('/test')
 def index():
     return 'Hello, World!'
 
 app.config['UPLOAD_FOLDER'] = 'static/uploads/'
 
 
-@app.route('/submit', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def submit():
     if request.method == 'POST':
         image = request.files['image']
