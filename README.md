@@ -18,7 +18,7 @@
 
 <img src="./static/images/train.png">
 
-## Try out the web server: 
+## Try out the web app: 
   http://http://188.166.153.41/
 
 ## Source:
