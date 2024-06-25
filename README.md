@@ -19,7 +19,7 @@
 <img src="./static/images/train.png">
 
 ## Try out the web app: 
-  http://http://188.166.153.41/
+  http://188.166.153.41/
 
 ## Source:
 * The dataset is hosted on Kaggle.
