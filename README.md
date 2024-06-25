@@ -16,7 +16,7 @@
 
 ## The VGG model with transfer learing look like :
 
-<img src="./static/images/train.jpg">
+<img src="./static/images/train.png">
 
 ## Source:
 * The dataset is hosted on Kaggle.
